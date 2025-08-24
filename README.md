@@ -17,7 +17,7 @@ Una herramienta para visualizar y filtrar resultados de WES-NG con colores y fil
 
 ```bash
 # Descargar
-git clone https://github.com/adrian-orthuela/wesview.git
+git clone https://github.com/pwned-php/wesview.git
 cd wesview
 
 # Instalar dependencias
