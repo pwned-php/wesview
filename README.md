@@ -5,13 +5,13 @@ Enhanced viewer for WES-NG output with colors and filters
 
 Una herramienta para visualizar y filtrar resultados de WES-NG con colores y filtros avanzados.
 
-## ✨ Características
+## Características
 
-- Output colorizado** para mejor visualización
-- Filtros avanzados** por impacto, severidad, producto, etc.
-- Ordenamiento inteligente** (vulnerabilidades críticas primero)
-- Compatibilidad con paginadores** (less -R)
-- liminación de duplicados** automática
+- Output colorizado para mejor visualización
+- Filtros avanzados por impacto, severidad, producto, etc.
+- Ordenamiento inteligente (vulnerabilidades críticas primero)
+- Compatibilidad con paginadores (less -R)
+- liminación de duplicados automática
 
 ## Instalación rápida
 
